@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+/runs
+.vscode
+notebooks/.ipynb_checkpoints/
